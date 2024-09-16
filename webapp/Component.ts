@@ -1,6 +1,7 @@
 import UIComponent from "sap/ui/core/UIComponent";
 import models from "./model/models";
 import Device from "sap/ui/Device";
+import JSONModel from "sap/ui/model/json/JSONModel";
 
 /**
  * @namespace com.altarkawi.capi
