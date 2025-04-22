@@ -1,6 +1,15 @@
 # UI5 Application com.altarkawi.capi
 
-Insert the purpose of this project and some interesting info here...
+This project explores building SAPUI5 applications using TypeScript, with a focus on improving state management patterns.
+It includes examples and experiments with:
+
+🔁 Enums – for consistent and maintainable state values
+
+⚙️ GenericStateModel – a reusable model pattern for managing view/controller state
+
+🧠 ControllerState<T> – a generic interface to strongly type and structure controller-local data
+
+The goal is to establish clean and scalable approaches for UI state handling using modern TypeScript features.
 
 ## Description
 
